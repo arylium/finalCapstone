@@ -1,4 +1,4 @@
-# Capstone Project 5
+# The Capstone Project
 
 This project is about creating a case study document that demonstrates how to perform a security assessment on a Linux system. The project involves using tools such as Nmap and Metasploit to scan for open ports, identify services with backdoor vulnerabilities, and exploit them to gain root access. The project also requires extracting the password file from the target system and analyzing it for weak passwords.
 
